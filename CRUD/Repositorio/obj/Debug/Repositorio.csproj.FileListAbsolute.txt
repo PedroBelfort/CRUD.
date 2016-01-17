@@ -1,0 +1,15 @@
+c:\users\pedro\documents\visual studio 2015\Projects\Model\Repositorio\bin\Debug\Repositorio.dll.config
+c:\users\pedro\documents\visual studio 2015\Projects\Model\Repositorio\bin\Debug\Repositorio.dll
+c:\users\pedro\documents\visual studio 2015\Projects\Model\Repositorio\bin\Debug\Repositorio.pdb
+c:\users\pedro\documents\visual studio 2015\Projects\Model\Repositorio\bin\Debug\EntityFramework.dll
+c:\users\pedro\documents\visual studio 2015\Projects\Model\Repositorio\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\pedro\documents\visual studio 2015\Projects\Model\Repositorio\bin\Debug\Model.dll
+c:\users\pedro\documents\visual studio 2015\Projects\Model\Repositorio\bin\Debug\Model.pdb
+c:\users\pedro\documents\visual studio 2015\Projects\Model\Repositorio\bin\Debug\EntityFramework.xml
+c:\users\pedro\documents\visual studio 2015\Projects\Model\Repositorio\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\pedro\documents\visual studio 2015\Projects\Model\Repositorio\obj\Debug\Repositorio.csprojResolveAssemblyReference.cache
+c:\users\pedro\documents\visual studio 2015\Projects\Model\Repositorio\obj\Debug\Repositorio.dll
+c:\users\pedro\documents\visual studio 2015\Projects\Model\Repositorio\obj\Debug\Repositorio.pdb
+c:\users\pedro\documents\visual studio 2015\Projects\Model\Repositorio\obj\Debug\Repositorio.Migrations.InitialCreate.resources
+c:\users\pedro\documents\visual studio 2015\Projects\Model\Repositorio\obj\Debug\Repositorio.csproj.GenerateResource.Cache
+c:\users\pedro\documents\visual studio 2015\Projects\Model\Repositorio\obj\Debug\Repositorio.Migrations.AdicionadoAtributoEndereco.resources
